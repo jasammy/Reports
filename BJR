@@ -1,0 +1,31 @@
+(A) BJR has two 3-DOF serial actuated legs, and
+each leg has a hip, a knee and an ankle joint.
+
+(B) Compared to the walking robot, jumping
+robot not only can jump over obstacles of certain height, but
+also has higher mobility. Therefore it has greater flexibility
+and rapidity, and higher mobility in complicated terrains.
+
+(C)  The biologically inspired
+hopping robot Kenken has an articulated leg and uses two
+hydraulic actuators as muscles and a tensile spring as a
+tendon.
+
+(D) artificial musculoskeletal system consists of two legs with hip,
+knee, and ankle joints. We installed a pneumatic cylinder and
+a torsion spring on each joint which has one degree of
+freedom. 
+
+(E)In order to decrease the
+collision and increase the stability when landing, the feet are
+made bigger which relieve the contact with the ground and
+increase the stability of jumping.
+
+(F) Task layer is responsible for
+planning the overall tasks according to the obstacle and terrain
+information. Gesture layer is responsible for setting
+parameters and planning trajectory. Jump layer is responsible
+for coordinating the actuated joints. Joint layer is responsible
+for extending and contracting the joints.
+
+(G) No pneumatic and hydraulic shock absorbers present in BJR due to which there are more chances of getting their parts damage.

@@ -1,0 +1,24 @@
+(a) The entire robot consists of the following major components: (1)
+radio controller, (2) receiver, (3) controller module, (4) hopping
+mechanism, and (5) feedback.
+ (i) The Radio Controller is used to input commands wirelessly from
+     the user to the robot.
+ (ii) The Receiver located at the platform receives the commands
+      and sends them to the controller module.
+ (iii) The Controller Module converts user commands and the data from the
+       sensors to be processed in the hopping algorithm.
+ (iv) The Hopping Mechanism consists of
+      three legs that have springs which continuously compress and
+      decompress in a quick manner in order to lift the robot from the
+      ground, thus performing a hopping movement.
+
+(b) Five cases are used in the main program: four cases for the direc-
+tion of the hopping robot, and one default case that will be execut-
+ed when no input is detected from the remote controller.
+
+(c) The Z-Angle (Yaw) for gyroscope is used to determine where the robot
+is facing.
+
+(d) the leg with the moving cam induces hopping on that particular leg and the high-bouncing ball underneath the legs assist in slightly increasing the hopping height.
+
+(e)Use of cam: cam rotates which compresses the spring causing the robot to jump.

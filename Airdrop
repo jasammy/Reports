@@ -1,0 +1,35 @@
+(a) Using a technique called Parachute Landing Fall (PLF), a human jumper first land on one’s toes, and using the compliance of one’s knees, absorbs
+the impact of landing by folding one’s leg and gently rolling
+over to distribute the impact sequentially along the side of his
+body.
+
+(b) there are three major techniques for impact
+attenuation of robotic landings: 1) active damping, 2) passive
+damping or use of compliant legs, and 3) control of a robot’s
+posture to guide the fall.
+
+(c) compliant actuators can not only allow energy storage, but also allow for better shock tolerance.
+
+(d) While walking, one or two feet might be off the ground, so we also require that the springs should be able to support half of the robot’s weight.
+
+(e) Given the constraints of cost-effective rapid prototyping,
+we decided to build our test robot of 3D-printed polylactic
+acid (PLA) parts, as it is relatively straightforward to con-
+struct a 3S configuration with 3D printed plastic parts.
+
+(f) A robot can roll while falling to minimize stress on its structure.
+
+1-Segment:
+(a) The one-segment leg was designed like a POGO STICK. It does not have a knee and its length is directly affected by a spring, which its length is set by pulling a string that is connected to a pulley.
+
+2-Segment compliant structure (2SCS):
+(a) The two-segment compliant structure (2SCS) leg configuration has hips and knees that are directly actuated. The lower half of the leg is replaced by a spring.
+
+2-Segment compliant joint (2SCJ):(has a knee servo)
+(a) The two-segment compliant joint (2SCJ) leg configuration
+has hips that are directly actuated and knees that are compliant.
+The legs need to support the weight of the robot while walking.
+
+3-Segment:
+(a) The three-segment (3S) leg configuration has hips that are
+directly actuated, and knees and ankles that are compliant.

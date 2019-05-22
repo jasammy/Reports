@@ -1,0 +1,32 @@
+(a) The knee joint is driven by a DC motor through the
+reduction gears and the reduction ratio of this joint is 21.4
+so that high backdrivability can be kept.The hip joint is
+driven by a servo motor with only angle control.
+
+(b) The weight of the RPLM robot
+is approximately equal with that of EFLM robot.
+
+(c) the EFLM robot can jump higher
+because the vertical component of GRF impulse by EFLM
+robot is larger than that by RPLM robot.
+
+(d) the robot is constrained so that only vertical translational motion
+and rolling motion are allowed by using a guide mechanism.
+
+(e) After several jumping and landing motions,
+the gear in the knee joint of the robot using RPLM was
+damaged by the shock at touchdown while no damages
+occurred on the robot using EFLM.From this result, we can
+know that the shock from the ground during landing was
+absorbed effectively by the elastic linkage.
+
+(f) although the hydraulic cylinder is able to generate
+large force, a big energy source is required to drive it.
+
+(g) the robot with EFLM becomes more robust against the environment.
+
+(h) The mechanism is composedof active hip and knee joints driven by electric rotary motors and passive ankle joint.
+Knee joints and ankle joints are connected by a four-
+bar linkage mechanism in which one linkage is elastic.
+
+(i) These DC motors also help them to jump through reduction gears.

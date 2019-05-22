@@ -1,0 +1,33 @@
+(a) A direct-drive (DD) robot forgoes the use of a gear,
+belt, chain, or other reduction to amplify its motors’
+effective torque production.
+
+Advantages:
+1. Transparency: DD actuation benefits robotics appli-
+cations by avoiding backlash (uncontrolled motion due to gaps in parts), achieving high mechanical stiff-ness, and mitigating reflected inertia of the motor and coulomb and viscous friction in the gearbox so that motor dynamics can
+be more quickly and easily influenced by external forces acting
+on the leg.
+
+2. High-bandwidth signal flow: Removing the gearbox
+enables advantages in: sensing, mitigating low-pass spring
+dynamics arising in SEA [3], as well as filter dynamics in
+feeding back distal force/torque readings (slowing a 3kHz
+control loop down to 600Hz in the latter case).
+
+3. Specific power: Since a gearbox both increases mass
+and decreases power (because of its associated losses), the
+peak specific power of DD actuators will be significantly
+higher than their geared counterparts.
+
+Disadvantages:
+1. Without a gearbox to amplify the output torque and decrease the output
+speed, DD motors must operate in high-torque, low-speed
+regimes where Joule heating is significant.
+
+2. By removing the gearbox, mass-specific torque becomes our first limit-
+ing resource in electromagnetically actuated robots.
+
+Q. What is so special about DD legged robots?
+Q. Why is DD use suitable for MIT Cheetah?
+
+(b) Gear ratio is the ratio of rpm of the outer shaft to the inner shaft.
